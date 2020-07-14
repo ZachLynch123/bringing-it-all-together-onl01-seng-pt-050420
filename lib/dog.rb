@@ -44,7 +44,7 @@ class Dog
   end
   
   def self.create(params)
-    
+    dog = Dog.new(params)
     
   end
 
